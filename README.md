@@ -1,8 +1,9 @@
 ### Welcome to my GitHub profile 👋 I'm Alexey
-Currently I'm completing a Full Stack Software Developer course with Code Institute, Dublin.
-I'm based in Prague, Czech Republic.
+I have recently completed a Full Stack Software Developer course with Code Institute, Dublin.
+Based in Prague, Czech Republic.
+Interested in job opportuinties, project cooperation and distant work. 
 
-- 🔭 I’m currently working on my last student project, e-commerce website for a bicycle brand I co-own. The website is built on Python/Django, using PostreSQL & Stripe. You can check the repository FABIKE below.
+- 🔭 Next learning project: React & Node.js.
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
