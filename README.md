@@ -1,13 +1,20 @@
-### Welcome to my GitHub profile 👋 I'm Alexey
+## Welcome to my GitHub profile 👋 I'm Alexey
+
+---
+
 I have recently completed a Full Stack Software Developer course with Code Institute, Dublin.
 Based in Prague, Czech Republic.
 Interested in job opportuinties, project cooperation and distant work. 
+
+---
 
 - 🔭 Next learning project: React & Node.js.
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
 - ⚡ One of my hobbies - [drone photography](https://www.instagram.com/stodrones/)
+
+---
 
   Tech skills & knowledge:
 - Languages: 		        HTML5, CSS3, JavaScript, Python
