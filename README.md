@@ -8,7 +8,9 @@ Interested in job opportuinties, project cooperation and distant work.
 
 ---
 
-- 🔭 Next learning project: React & Node.js.
+- :computer: Currently learning project: React & Node.js.
+
+- :books: Reading: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
