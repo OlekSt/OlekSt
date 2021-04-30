@@ -22,6 +22,10 @@ Interested in job opportuinties, project cooperation and distant work.
 - Databases:  		    MongoDB, MySQL, PostgreSQL, SQLite
 - Other tools:  		    GitHub, Git, Gitpod, CodePen, Amazon AWS, Heroku, Slack
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olekst)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **OlekSt/OlekSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
