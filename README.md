@@ -26,8 +26,6 @@ Interested in job opportuinties, project cooperation and distant work.
 
 ###  GitHub Stats
 
-[![OlekSt's GitHub stats](https://github-readme-stats.vercel.app/api?username=olekst)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olekst&hide=html&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
