@@ -8,7 +8,7 @@ Interested in job opportuinties, project cooperation and distant work.
 
 ---
 
-- :computer: Currently learning project: React & Node.js.
+- :computer: Currently learning: Getting deeper into Python, Django, SQL, REST APIs.
 
 - :books: Reading: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 
@@ -21,8 +21,8 @@ Interested in job opportuinties, project cooperation and distant work.
   Tech skills & knowledge:
 - Languages: 		        HTML5, CSS3, JavaScript, Python
 - Libraries/Frameworks:  	Flask, Jinja, Django, Bootstrap, Materialize, jQuery, Stripe
-- Databases:  		    MongoDB, MySQL, PostgreSQL, SQLite
-- Other tools:  		    GitHub, Git, Gitpod, CodePen, Amazon AWS, Heroku, Slack
+- Databases:  		        MongoDB, MySQL, PostgreSQL, SQLite, SQLAlchemy
+- Other tools:  		    GitHub, Git, Gitpod, CodePen, Amazon AWS, Heroku, Slack, 
 
 ---
 
