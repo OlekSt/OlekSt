@@ -1,10 +1,10 @@
-## Welcome to my GitHub profile 👋 I'm Alexey
+## Welcome to mprofile 👋 I'm Alexey
 
 ---
 
-I have recently completed a Full Stack Software Developer course with Code Institute, Dublin.
-Based in Prague, Czech Republic.
-Interested in job opportuinties, project cooperation and distant work. 
+- I've completed a Full Stack Software Developer course with Code Institute/Ireland,Dublin/ with DIstinction.
+- Based in Prague, Czech Republic.
+- Interested in job opportuinties, project cooperation & distant work. 
 
 ---
 
