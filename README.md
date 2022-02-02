@@ -10,7 +10,7 @@
 
 - :computer: Currently learning: Getting deeper into Python, Django, SQL, REST APIs.
 
-- :books: Reading: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- :books: Reading: Various Python books.
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
