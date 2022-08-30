@@ -8,9 +8,9 @@
 
 ---
 
-- :computer: Currently learning: Getting deeper into Python, Django, SQL, REST APIs.
+- :computer: Currently learning: Getting deeper into Python, Django, SQL, FastAPI.
 
-- :books: Reading: Various Python books.
+- :books: Reading: Fluent Python & Python Distilled.
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
@@ -20,9 +20,9 @@
 
   Tech skills & knowledge:
 - Languages: 		        HTML5, CSS3, JavaScript, Python
-- Libraries/Frameworks:  	Flask, Jinja, Django, Bootstrap, Materialize, jQuery, Stripe
-- Databases:  		        MongoDB, MySQL, PostgreSQL, SQLite, SQLAlchemy
-- Other tools:  		    GitHub, Git, Gitpod, CodePen, Amazon AWS, Heroku, Slack, 
+- Libraries/Frameworks:  	Django, FastAPI, Flask, jQuery, Jinja, Bootstrap, Materialize, Stripe
+- Databases:  		        MongoDB, MySQL, PostgreSQL, SQLite, SQLAlchemy, Redis
+- Other tools:  		    GitHub, Git, Gitpod, DataDog, Postman, Amazon AWS, Heroku, Slack, 
 
 ---
 
