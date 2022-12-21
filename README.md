@@ -8,21 +8,23 @@
 
 ---
 
-- :computer: Currently learning: Getting deeper into Python, Django, SQL, FastAPI.
+- :computer: Currently learning: Getting deeper into Python, Django, SQL, FastAPI, Vue.
 
-- :books: Reading: Fluent Python & Python Distilled.
+- :books: Reading: [The Fourth Age](https://www.amazon.co.uk/Fourth-Age-Conscious-Computers-Humanity/dp/1501158562) & [Linux Command Line and Shell Scripting Bible](https://www.amazon.co.uk/Linux-Command-Shell-Scripting-Bible/dp/1118004426).
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
 - ⚡ One of my hobbies - [drone photography](https://www.instagram.com/stodrones/)
 
+- ⚡ During my free time I programme this [little 'friend'](https://www.youtube.com/watch?v=3hF01Fvlmq4)
+
 ---
 
   Tech skills & knowledge:
-- Languages: 		        HTML5, CSS3, JavaScript, Python
-- Libraries/Frameworks:  	Django, FastAPI, Flask, jQuery, Jinja, Bootstrap, Materialize, Stripe
-- Databases:  		        MongoDB, MySQL, PostgreSQL, SQLite, SQLAlchemy, Redis
-- Other tools:  		    GitHub, Git, Gitpod, DataDog, Postman, Amazon AWS, Heroku, Slack, 
+- Languages: 		         HTML5, CSS3, JavaScript, Python
+- Libraries/Frameworks:  Django, FastAPI, Flask, jQuery, Vue, Jinja, Bootstrap, Materialize, Stripe
+- Databases:  		       MongoDB, MySQL, PostgreSQL, SQLite, SQLAlchemy, Redis
+- Other tools:  		     GitHub, Git, Gitpod, DataDog, Postman, Amazon AWS, Heroku, Slack, 
 
 ---
 
