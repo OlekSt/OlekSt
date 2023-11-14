@@ -4,13 +4,13 @@
 
 - I've completed a Full Stack Software Developer course with Code Institute/Ireland,Dublin/ with DIstinction.
 - Based in Prague, Czech Republic.
-- Interested in job opportuinties, project cooperation & distant work. 
+- Interested in job opportunities, project cooperation & distant work. 
 
 ---
 
-- :computer: Currently learning: Getting deeper into Python, Django, SQL, FastAPI, Vue.
+- :computer: Currently learning: Getting deeper into Python, and SQL.
 
-- :books: Reading: [The Fourth Age](https://www.amazon.co.uk/Fourth-Age-Conscious-Computers-Humanity/dp/1501158562) & [Linux Command Line and Shell Scripting Bible](https://www.amazon.co.uk/Linux-Command-Shell-Scripting-Bible/dp/1118004426).
+- :books: Reading: [Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code]([https://www.amazon.co.uk/Fourth-Age-Conscious-Computers-Humanity/dp/1501158562]((https://a.co/d/3x2dO6l)) & [Elasticsearch in Action](https://a.co/d/5uiHml5)
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
