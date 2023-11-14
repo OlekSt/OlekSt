@@ -10,7 +10,7 @@
 
 - :computer: Currently learning: Getting deeper into Python, and SQL.
 
-- :books: Reading: [Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code]([https://www.amazon.co.uk/Fourth-Age-Conscious-Computers-Humanity/dp/1501158562]((https://a.co/d/3x2dO6l)) & [Elasticsearch in Action](https://a.co/d/5uiHml5)
+- :books: Reading: [Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://a.co/d/3x2dO6l). & [Elasticsearch in Action](https://a.co/d/5uiHml5)
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
