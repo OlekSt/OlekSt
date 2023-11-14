@@ -10,21 +10,21 @@
 
 - :computer: Currently learning: Getting deeper into Python, and SQL.
 
-- :books: Reading: [Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://a.co/d/3x2dO6l). & [Elasticsearch in Action](https://a.co/d/5uiHml5)
+- :books: Reading: [Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://a.co/d/3x2dO6l) & [Elasticsearch in Action](https://a.co/d/5uiHml5)
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
 - ⚡ One of my hobbies - [drone photography](https://www.instagram.com/stodrones/)
 
-- ⚡ During my free time I programme this [little 'friend'](https://www.youtube.com/watch?v=3hF01Fvlmq4)
+- ⚡ During my free time I program this [little 'friend'](https://www.youtube.com/watch?v=3hF01Fvlmq4)
 
 ---
 
   Tech skills & knowledge:
 - Languages: 		         HTML5, CSS3, JavaScript, Python
 - Libraries/Frameworks:  Django, FastAPI, Flask, jQuery, Vue, Jinja, Bootstrap, Materialize, Stripe
-- Databases:  		       MongoDB, MySQL, PostgreSQL, SQLite, SQLAlchemy, Redis
-- Other tools:  		     GitHub, Git, Gitpod, DataDog, Postman, Amazon AWS, Heroku, Slack, 
+- Databases:  		       PostgreSQL, SQLite, SQLAlchemy, Redis, Elasticsearch, MongoDB
+- Other tools:  		     GitHub, Git, Gitpod, DataDog, Postman, Amazon AWS, Heroku, Slack 
 
 ---
 <!-- 
