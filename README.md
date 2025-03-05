@@ -2,19 +2,23 @@
 
 ---
 
-- I've completed a Full Stack Software Developer course with Code Institute/Ireland,Dublin/ with DIstinction.
+- Currently work as a backend software engineer.
 - Based in Prague, Czech Republic.
 - Interested in job opportunities, project cooperation & distant work. 
 
 ---
 
-- :computer: Currently learning: Getting deeper into Python, and SQL.
+- :computer: Currently getting deeper into Python, and SQL.
 
-- :books: Reading: [Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://a.co/d/3x2dO6l) & [Elasticsearch in Action](https://a.co/d/5uiHml5)
+- :european_castle: Working on route calculating algorithm for self-guided walking tour app.
+
+- :space_invader: Creating sci-fi stories for my son, using LLMs, and converting them to mp3 files with Kokoro TTS. 
+
+- :books: Reading: [Fluent Python: Clear, Concise, and Effective Programming](https://a.co/d/4Qqe10y)
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
-- ⚡ One of my hobbies - [drone photography](https://www.instagram.com/stodrones/)
+- ⚡ One of my projects - [drone photography](https://www.instagram.com/stodrones/)
 
 - ⚡ During my free time I program this [little 'friend'](https://www.youtube.com/watch?v=3hF01Fvlmq4)
 
