@@ -2,7 +2,7 @@
 
 ---
 
-- Currently work as a backend software engineer.
+- Work as a backend software engineer.
 - Based in Prague, Czech Republic.
 - Interested in job opportunities, project cooperation & distant work. 
 
