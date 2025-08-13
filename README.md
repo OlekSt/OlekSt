@@ -12,7 +12,7 @@
 
 - :european_castle: Working on route calculating algorithm for self-guided walking tour app.
 
-- :space_invader: Creating sci-fi stories for my son, using LLMs, and converting them to mp3 files with Kokoro TTS. 
+- :space_invader: Creating sci-fi stories for my son, using LLMs, and converting them to mp3 files with Kokoro TTS. Listen to [some of the stories](https://on.soundcloud.com/mYzqXVcaE1Ky7Vh7qM)
 
 - :books: Reading: [Fluent Python: Clear, Concise, and Effective Programming](https://a.co/d/4Qqe10y)
 
