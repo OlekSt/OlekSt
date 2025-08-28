@@ -14,7 +14,7 @@
 
 - :space_invader: Creating sci-fi stories for my son, using LLMs, and converting them to mp3 files with Kokoro TTS. Listen to [some of the stories](https://soundcloud.com/leksiyt/sets)
 
-- :books: Reading: [Fluent Python: Clear, Concise, and Effective Programming](https://a.co/d/4Qqe10y)
+- :books: Reading: [Material World: A Substantial Story of Our Past and Future](https://a.co/d/cjGle5s), [SQL Queries for Mere Mortals](https://a.co/d/2p8ACtH)
 
 - 📫 My [LinkedIn profile](https://www.linkedin.com/in/alexeystatsenko/)
 
